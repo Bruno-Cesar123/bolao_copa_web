@@ -39,7 +39,7 @@ $ cd web
 $ npm install ou yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ npm run start ou yarn start
+$ npm run dev ou yarn dev
 
 # O servidor inciará na porta:3000 - acesse <http://127.0.0.1:3000>
 
